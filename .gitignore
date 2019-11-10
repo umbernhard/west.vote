@@ -1,6 +1,4 @@
 build/
-cv/cv.log
-cv/cv.tex
-cv/cv.pdf
 files/cv.pdf
 .DS_Store
+_site/
